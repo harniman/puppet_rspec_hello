@@ -39,7 +39,6 @@ class helloee {
 
 file {'/tmp/test':
   ensure  => present,
-  content => 'Hello World!',
 }
 
 }
