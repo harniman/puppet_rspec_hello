@@ -42,4 +42,3 @@ file {'/tmp/test':
 }
 
 }
-

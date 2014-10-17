@@ -7,4 +7,3 @@ describe 'hello' do
   it { should contain_file('/tmp/test') }
 
 end
-
