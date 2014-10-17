@@ -35,7 +35,7 @@
 #
 # Copyright 2014 Your name here, unless otherwise noted.
 #
-class helloee {
+class hello {
 
 file {'/tmp/test':
   ensure  => present,
