@@ -38,7 +38,7 @@
 class hello {
 
 file {'/tmp/test':
-  ensure  => "present",
+  ensure  => 'present',
 }
 
 }
