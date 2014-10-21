@@ -37,7 +37,7 @@
 #
 class hello {
 
-file {'/tmp/test':
+file {'/tmp/test2':
   ensure  => 'present',
 }
 
